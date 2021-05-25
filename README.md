@@ -6,3 +6,5 @@ This project is dedicated to the entire Fragrance Community in celebration of Fr
 The program user would feed the engine with parameters such as the occasion, time of day and season, and the program would return a list of the best matching fragrances for the user to choose from their collection. The user's fragrance collection would be stored in a CSV file. My own personal fragrance collection CSV is included for reference. 
 ---
 The engine is primitive at its current state, as the implementation merely involves a simple tag-matching approach, feel free to help with this project either by raising an [issue](https://github.com/selmantabet/fragrance-suggestions/issues) or by providing a [pull request](https://github.com/selmantabet/fragrance-suggestions/pulls).
+
+[Update - May 25] The production plan has changed to incorporate more robust and complex features such as using an expanded set of tags. The original version has been scrapped. No ETA is available at the moment. 
