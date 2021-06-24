@@ -1,4 +1,4 @@
-from pandas import*
+
 #Project: Fragrance Suggestion Engine by Selman Tabet @ https://selman.io/
 #This project is dedicated to the entire Fragrance Community in celebration of 
 #Fragrance Day 2021, as well as in memory of Carlos Powell of BFL.
